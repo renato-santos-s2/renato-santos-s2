@@ -34,7 +34,7 @@ Atualmente estou Estudando Desenvolvimento Web com foco em Front-End e atuando c
 
 ## 🎯 **Objetivo Atual:**
 
-Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front-End a fim de montar meu portfólio e de entrar no mercado de trabalho e poder colaborar com a comunidade.
+Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front-End.
 
 </center>
 
