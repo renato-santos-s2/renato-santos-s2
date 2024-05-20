@@ -13,7 +13,17 @@ jobs:
       contents: write
     steps:
       - name: devcard
-        uses: dailydotdev/action-devcard@3.0.0
+      - uses: dailydotdev/action-devcard@3.0.0
+      - uses: actions/checkout@v4
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update ${filename}"
+
+  keepalive-job:
+    name: Keepalive Workflow
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v2
