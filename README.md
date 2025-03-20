@@ -40,5 +40,5 @@ Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco pr
 
 <a href="https://app.daily.dev/renatodev88"><img src="./devcard.png" width="356" alt="Renato Gonçalves's Dev Card"/></a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renatoknot)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoknot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renato-santos-s2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-santos-s2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
